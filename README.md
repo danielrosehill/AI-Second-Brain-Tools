@@ -108,9 +108,8 @@ Personal knowledge base chat interface for local LLM integration.
 ## Waiting List / Coming Soon
 
 ### SuperMemory AI
-AI-powered spaced repetition and knowledge management system.
+AI-powered spaced repetition and knowledge management system.  
 [![SuperMemory AI](https://img.shields.io/badge/SuperMemory_AI-Join_Waitlist-yellow)](https://supermemory.ai/)
-
 
 
 
