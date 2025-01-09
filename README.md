@@ -29,7 +29,39 @@ Some ideas for the emerging terminologies to describe the application of RAG for
 - Personalised LLMs
 - Personal RAG systems
 
+## Personal Context / LLM Personalisation Tools vs. "Speak To Your Docs"
+
+Although it might seem like splitting hairs, there is another definite division between tools which are focused on my primary interest (achieving hyper personalized large language model agent workflows through adding personal context data) and those which market themselves as "speak to your docs" (speak to your PDF, etc).
+
+There is so much crossover in terms of features that speak to your document type. Tools can be used to simply for the purpose of bringing in context data (after all, that's recorded in docs!). But there are some specific features which would be more likely to be seen in the personal context use case - for example, the ability to create "documents" within the tool rather than to just pull it in and index it passively.
+
 # Some Interesting "Digital Brain" Projects
+
+## To Sort!
+
+### Anything LLM
+Self-hosted, locally running AI assistant that can learn from any document, chat history, or text-based data source.  
+[![Anything LLM](https://img.shields.io/badge/AnythingLLM-Visit-blue)](https://useanything.com/)
+
+### Deepset AI
+Open-source framework for building natural language processing pipelines, with a focus on question answering and semantic search.  
+[![Deepset AI](https://img.shields.io/badge/DeepsetAI-Visit-blue)](https://www.deepset.ai/)
+
+### Haystack
+End-to-end framework for building production-ready LLM applications with semantic search and question answering capabilities.  
+[![Haystack](https://img.shields.io/badge/Haystack-Visit-blue)](https://haystack.deepset.ai/)
+
+### Humata
+AI-powered document analysis tool that allows you to chat with and ask questions about your documents, including PDFs and text files.  
+[![Humata](https://img.shields.io/badge/Humata-Visit-blue)](https://www.humata.ai/)
+
+### Sharly
+AI-powered knowledge base that automatically organizes and connects your team's information for improved accessibility and insights.  
+[![Sharly](https://img.shields.io/badge/Sharly-Visit-blue)](https://sharly.ai/)
+
+### Onyx
+Personal AI assistant focused on knowledge management and task automation, with natural language processing capabilities.  
+[![Onyx](https://img.shields.io/badge/Onyx-Visit-blue)](https://onyx.ai/)
 
 ## Open Source Personal Knowledge & Second Brain Tools
 
@@ -48,6 +80,32 @@ Self-hosted solution for running LLMs with private documents and knowledge bases
 ### The Second Brain
 AI-powered personal knowledge management system with note-taking and knowledge synthesis capabilities.  
 [![The Second Brain](https://img.shields.io/badge/The_Second_Brain-Visit-blue)](https://app.thesecondbrain.io/home)
+
+
+
+### Anything LLM
+Self-hosted, locally running AI assistant that can learn from any document, chat history, or text-based data source.  
+[![Anything LLM](https://img.shields.io/badge/AnythingLLM-Visit-blue)](https://useanything.com/)
+
+### Deepset AI
+Open-source framework for building natural language processing pipelines, with a focus on question answering and semantic search.  
+[![Deepset AI](https://img.shields.io/badge/DeepsetAI-Visit-blue)](https://www.deepset.ai/)
+
+### Haystack
+End-to-end framework for building production-ready LLM applications with semantic search and question answering capabilities.  
+[![Haystack](https://img.shields.io/badge/Haystack-Visit-blue)](https://haystack.deepset.ai/)
+
+### Humata
+AI-powered document analysis tool that allows you to chat with and ask questions about your documents, including PDFs and text files.  
+[![Humata](https://img.shields.io/badge/Humata-Visit-blue)](https://www.humata.ai/)
+
+### Sharly
+AI-powered knowledge base that automatically organizes and connects your team's information for improved accessibility and insights.  
+[![Sharly](https://img.shields.io/badge/Sharly-Visit-blue)](https://sharly.ai/)
+
+### Onyx
+Personal AI assistant focused on knowledge management and task automation, with natural language processing capabilities.  
+[![Onyx](https://img.shields.io/badge/Onyx-Visit-blue)](https://onyx.ai/)
 
 ## AI Development Frameworks & SDKs
 
