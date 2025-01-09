@@ -21,6 +21,14 @@ The borderline isn't fixed. Any agentic tool that leverages RAG (that's all of t
 
 Doing the latter involves abstracting the complications of embedding and committing to vector storage Data that begins its life in conventional digital formats. Platforms that do this superlatively well, and which provide easy access to these contact storages to the agents deployed within their platforms, frequently market themselves as being "AI digital brains". The above is my definition only!
 
+## Other Nomenclature
+
+Some ideas for the emerging terminologies to describe the application of RAG for personal use - Leveraging smaller and more curated batches of context data in order to increase personalization and the usefulness of inference:
+
+- Personal context augmented LLMs
+- Personalised LLMs
+- Personal RAG systems
+
 # Some Interesting "Digital Brain" Projects
 
 ## Open Source Personal Knowledge & Second Brain Tools
